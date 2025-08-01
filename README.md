@@ -1,6 +1,11 @@
-# Scrap-Management
+# Scrap Management - Full-Stack Application
+
+Scrap Management is a comprehensive, full-stack web application designed to digitize and streamline the process of tracking, validating, and analyzing industrial scrap. This system replaces manual paperwork with an efficient, secure, and data-driven workflow, providing valuable insights into waste management and operational efficiency.
+This repository contains the complete source code for the application, separated into two main projects: a modern single-page application frontend and a robust REST API backend.
 
 ## Scrap Management - Frontend
+
+![alt text](https://img.shields.io/badge/Frontend-React-blue.svg)
 
 ## Scrap Management API - Backend
 
